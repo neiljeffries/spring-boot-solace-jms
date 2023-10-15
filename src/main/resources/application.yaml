@@ -6,11 +6,11 @@ solace:
   jms:
     host: tcps://ems2.swim.faa.gov:55443
     msgVpn: TFMS
-    clientUsername: neiljeffries.gmail.com
-    clientPassword: R2PDsXRiT56hEBzyENLAgA
-    connectionFactoryJndiName: neiljeffries.gmail.com.CF
-    producerQueueJndiName: neiljeffries.gmail.com.TFMS.53ec5b77-69f3-4bba-9825-715b14918d4f.IN
-    consumerQueueJndiName: neiljeffries.gmail.com.TFMS.53ec5b77-69f3-4bba-9825-715b14918d4f.OUT
+    clientUsername: xxxxxxxxxx
+    clientPassword: xxxxxxxxxx
+    connectionFactoryJndiName: xxxxxxxxxx
+    producerQueueJndiName: xxxxxxxxxx
+    consumerQueueJndiName: xxxxxxxxxx
 
 logging:
   level:
